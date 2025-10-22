@@ -110,3 +110,9 @@ chain = ConversationChain(llm=llm, memory=memory)
 # This chain can now maintain context and respond to multi-turn queries
 response = chain.run("Summarize the latest email about the project deadline.")
 print(response)
+```
+
+# Build an AI Agent From Scratch in Python
+```bash
+
+```
