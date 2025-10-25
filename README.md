@@ -4,8 +4,6 @@
 
 ---
 
-## Basic Information
-
 | Field | Details |
 |-------|----------|
 | **Name** | Rajab Begim |
